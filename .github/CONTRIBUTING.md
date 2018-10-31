@@ -6,7 +6,7 @@
 ## 문서 작성 컨벤션
 
 * 본 저장소는 기본적으로  [markdownlint](https://github.com/markdownlint/markdownlint)의
-* `default` 규칙을 사용하며, 일부 수정된 규칙은 `.markdownlint.json` 에 명시되어 있습니다.
+  `default` 규칙을 사용하며, 일부 수정된 규칙은 `.markdownlint.json` 에 명시되어 있습니다.
 * 또한 markdownlint를 보조하는 `editorconfig` 규칙도 본 저장소에 포함되어 있습니다.
   마지막 줄에서 줄바꿈을 강제하는 `insert_final_newline` 옵션은 `markdownlint`에서는 제공하지 않으니
   후술하는 [적용법](#적용법)에서 `markdownlint`와 함께 규칙을 지켜주셔야 합니다.
@@ -21,7 +21,7 @@
     * Atom
         * [editorconfig](https://atom.io/packages/editorconfig)
         * [markdownlint](https://atom.io/packages/linter-markdownlint)
-    * Sublime Text(Package Control)
+    * Sublime Text (Package Control)
         * [editorconfig](https://packagecontrol.io/packages/EditorConfig)
         * [markdownlint](https://packagecontrol.io/packages/SublimeLinter-contrib-markdownlint)
     * IntelliJ
